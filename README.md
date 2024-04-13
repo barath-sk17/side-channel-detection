@@ -1,6 +1,3 @@
-Certainly! Below is a GitHub README template based on the provided information:
-
----
 
 # Side-channel Detection using LSTM/Transformer Model Time-Series Forecasting
 
